@@ -1,0 +1,4 @@
+- setting the environment variable on windows
+  D:\Developments\GOLANG
+- create src folder and then paste the project there
+
